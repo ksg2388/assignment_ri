@@ -9,11 +9,11 @@ export default function Home() {
           src="/images/background.png"
           alt="background"
           fill
-          className="object-contain z-0"
+          className="object-cover z-0"
           priority
         />
         <div className="w-full h-full relative z-1 tracking-[-0.025em] font-[400]">
-          <div className="absolute top-[31.5%] left-[18%] w-[35%] h-[4%] flex justify-center items-center text-black whitespace-pre-wrap text-center text-base">
+          <div className="absolute top-[31.3%] left-[18%] w-[35%] h-[4%] flex justify-center items-center text-black whitespace-pre-wrap text-center text-base">
             {`이제 본격적으로 
 OO님의 사주팔자를 
 분석해볼 차례네요.`}
